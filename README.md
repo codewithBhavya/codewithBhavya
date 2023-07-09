@@ -1,4 +1,3 @@
 - 👋 Hi there, I'm @codewithBhavya
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on nothing 
-- 📫 How to reach me: codewithbhvaya@gmail.com
